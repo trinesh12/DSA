@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trinesh12/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/trinesh12/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
