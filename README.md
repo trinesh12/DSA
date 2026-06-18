@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/trinesh12/DSA/tree/master/0649-dota2-senate) |
 | [2126-destroying-asteroids](https://github.com/trinesh12/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/trinesh12/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trinesh12/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -60,10 +61,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/trinesh12/DSA/tree/master/0649-dota2-senate) |
 | [3612-process-string-with-special-operations-i](https://github.com/trinesh12/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/trinesh12/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 ## Math
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/trinesh12/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/trinesh12/DSA/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
