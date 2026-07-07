@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0367-valid-perfect-square](https://github.com/trinesh12/DSA/tree/master/0367-valid-perfect-square) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/trinesh12/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/trinesh12/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Queue
 |  |
 | ------- |
