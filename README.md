@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0649-dota2-senate](https://github.com/trinesh12/DSA/tree/master/0649-dota2-senate) |
 | [1833-maximum-ice-cream-bars](https://github.com/trinesh12/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/trinesh12/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/trinesh12/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/trinesh12/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trinesh12/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/trinesh12/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/trinesh12/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/trinesh12/DSA/tree/master/1528-shuffle-string) |
+| [1903-largest-odd-number-in-string](https://github.com/trinesh12/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/trinesh12/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/trinesh12/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/trinesh12/DSA/tree/master/3612-process-string-with-special-operations-i) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/trinesh12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/trinesh12/DSA/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/trinesh12/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1903-largest-odd-number-in-string](https://github.com/trinesh12/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/trinesh12/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/trinesh12/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/trinesh12/DSA/tree/master/3536-maximum-product-of-two-digits) |
