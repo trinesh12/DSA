@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/trinesh12/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/trinesh12/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/trinesh12/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/trinesh12/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trinesh12/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/trinesh12/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/trinesh12/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/trinesh12/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/trinesh12/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/trinesh12/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/trinesh12/DSA/tree/master/1528-shuffle-string) |
 | [1903-largest-odd-number-in-string](https://github.com/trinesh12/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/trinesh12/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/trinesh12/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/trinesh12/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/trinesh12/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/trinesh12/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/trinesh12/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0877-stone-game](https://github.com/trinesh12/DSA/tree/master/0877-stone-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/trinesh12/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
 |  |
 | ------- |
