@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/trinesh12/DSA/tree/master/0001-two-sum) |
+| [0198-house-robber](https://github.com/trinesh12/DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/trinesh12/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/trinesh12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/trinesh12/DSA/tree/master/0877-stone-game) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/trinesh12/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0198-house-robber](https://github.com/trinesh12/DSA/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/trinesh12/DSA/tree/master/0877-stone-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/trinesh12/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
