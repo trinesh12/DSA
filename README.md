@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/trinesh12/DSA/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/trinesh12/DSA/tree/master/0039-combination-sum) |
 | [0198-house-robber](https://github.com/trinesh12/DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/trinesh12/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/trinesh12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/trinesh12/DSA/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/trinesh12/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
