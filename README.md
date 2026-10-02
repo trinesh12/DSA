@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/trinesh12/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/trinesh12/DSA/tree/master/0022-generate-parentheses) |
 | [0290-word-pattern](https://github.com/trinesh12/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/trinesh12/DSA/tree/master/0383-ransom-note) |
 | [0649-dota2-senate](https://github.com/trinesh12/DSA/tree/master/0649-dota2-senate) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/trinesh12/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/trinesh12/DSA/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/trinesh12/DSA/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/trinesh12/DSA/tree/master/0877-stone-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/trinesh12/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -234,5 +236,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/trinesh12/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/trinesh12/DSA/tree/master/0039-combination-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/trinesh12/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
