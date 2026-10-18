@@ -39,11 +39,12 @@ public:
         for (int i = 0; i < n; i++) {
             if (nums[i] != order[i]) {
                 int idx = hm[order[i]];
-
+                
+                 hm[nums[idx]] = i;
+                hm[nums[i]] = idx;
                 swap(nums[i], nums[idx]);
 
-                hm[nums[idx]] = idx;
-                hm[nums[i]] = i;
+               
 
                 cnt++;
             }
