@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/trinesh12/DSA/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/trinesh12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/trinesh12/DSA/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/trinesh12/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/trinesh12/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/trinesh12/DSA/tree/master/1528-shuffle-string) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/trinesh12/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -276,4 +278,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/trinesh12/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
