@@ -1,68 +1,45 @@
 class Solution {
 public:
-    
-    bool  bfs(vector<vector<int>>&grid,int i,int j,int n,int m,vector<vector<bool>>&vis,int k)
+    long long dfs(vector<vector<int>>&grid,int i,int j,int n,int m)
     {
-       
-        queue<pair<int,int>>q;
+        if(i<0 || i>=n || j<0 || j>=m)return 0;
+        if(grid[i][j]==0)return 0;
 
-        q.push({i,j});
-         long long sum=grid[i][j];
-         vis[i][j]=true;
+        long long curr=grid[i][j];
+        
+        int dx[4]={1,-1,0,0};
+        int dy[4]={0,0,-1,1};
 
-        while(!q.empty())
+        grid[i][j]=0;
+
+        for(int k=0;k<4;k++)
         {
-            pair<int,int>t;
-            t=q.front();
-            q.pop();
-            int dx[4]={-1,0,1,0};
-            int dy[4]={0,1,0,-1};
-
-            for(int k=0;k<4;k++)
-            {
-                int r=t.first+dx[k];
-                int l=t.second+dy[k];
-
-                if(r<0 || r >=n || l<0 || l>=m)
-                {
-                    continue;
-                }
-                else if(grid[r][l]!=0 && vis[r][l]==false)
-                {
-                    q.push({r,l});
-                    sum+=grid[r][l];
-                    vis[r][l]=true;
-                }
-            }
-
-
+            curr+=dfs(grid,i+dx[k],j+dy[k],n,m);
         }
-        if(sum%k==0)return true;
+        return curr;
 
-        return false;
+
+        
+
 
     }
 
     int countIslands(vector<vector<int>>& grid, int k) {
         int n=grid.size();
         int m=grid[0].size();
-
         int count=0;
-        vector<vector<bool>>vis(n,vector<bool>(m));
-
         for(int i=0;i<n;i++)
         {
             for(int j=0;j<m;j++)
             {
-                if(vis[i][j]==false && grid[i][j]!=0 &&
-                bfs(grid,i,j,n,m,vis,k)
-                )
+                if(grid[i][j]!=0 && dfs(grid,i,j,n,m)%k==0)
                 {
                     count++;
-                    
                 }
+
             }
         }
         return count;
+
     }
 };
