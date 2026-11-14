@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/trinesh12/DSA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/trinesh12/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/trinesh12/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -290,11 +291,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/trinesh12/DSA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/trinesh12/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/trinesh12/DSA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/trinesh12/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -302,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/trinesh12/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/trinesh12/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
