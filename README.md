@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/trinesh12/DSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/trinesh12/DSA/tree/master/0039-combination-sum) |
+| [0130-surrounded-regions](https://github.com/trinesh12/DSA/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/trinesh12/DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/trinesh12/DSA/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/trinesh12/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/trinesh12/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/trinesh12/DSA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/trinesh12/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -295,18 +297,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/trinesh12/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/trinesh12/DSA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/trinesh12/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/trinesh12/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/trinesh12/DSA/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/trinesh12/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/trinesh12/DSA/tree/master/0130-surrounded-regions) |
 | [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/trinesh12/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
