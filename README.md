@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/trinesh12/DSA/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/trinesh12/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/trinesh12/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/trinesh12/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/trinesh12/DSA/tree/master/1528-shuffle-string) |
 | [1732-find-the-highest-altitude](https://github.com/trinesh12/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/trinesh12/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/trinesh12/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/trinesh12/DSA/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/trinesh12/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/trinesh12/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/trinesh12/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/trinesh12/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/trinesh12/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/trinesh12/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/trinesh12/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/trinesh12/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/trinesh12/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/trinesh12/DSA/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/trinesh12/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/trinesh12/DSA/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/trinesh12/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/trinesh12/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Game Theory
 |  |
